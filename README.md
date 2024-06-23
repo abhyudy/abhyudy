@@ -1,5 +1,4 @@
-# 💫 About Me:
- I’m Abhyudya Singh Ujala
+## I’m Abhyudya Singh Ujala
  
 🔭 I’m currently working on Portfolio <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJS <br>💬 Ask me about C++, JavaScript, ReactJS <br>⚡ Fun fact 
 
