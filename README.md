@@ -1,5 +1,4 @@
-**Hi there 👋, Welcome to my Github page!**
-**Abhyudya Singh Ujala**
+**Hi there 👋,Abhyudya Singh Ujala**
 ==========================
 **Visitor Count**
 -----------------
