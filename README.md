@@ -1,4 +1,4 @@
-**Hi there 👋,Abhyudya Singh Ujala**
+**Hi👋,Abhyudya Singh Ujala**
 ==========================
 
 [![](https://visitcount.itsvg.in/api?id=abhyudy&icon=0&color=0)](https://visitcount.itsvg.in)
