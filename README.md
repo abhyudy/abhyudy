@@ -11,9 +11,9 @@ I'm a passionate developer with a strong interest in building innovative solutio
 **What I'm Working On**
 ---------------------
 
-* **Portfolio**: I'm actively working on building a comprehensive portfolio that showcases my skills and experience.
+* **Portfolio**: I'm actively working on building a comprehensive SocialMedia App that showcases my skills and experience.
 * **Collaboration**: I'm open to collaborating on projects that align with my interests and skills.
-* **Learning**: I'm currently learning ReactJS and expanding my knowledge in JavaScript, C++, and other related technologies.
+* **Learning**: I'm currently learning NextJS and expanding my knowledge in ReactJS, JavaScript, C++, and other related technologies.
 
 **Ask Me About**
 ----------------
